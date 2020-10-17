@@ -24,6 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +38,7 @@
       <workItem from="1602862703771" duration="15947000" />
       <workItem from="1602926898315" duration="11878000" />
       <workItem from="1602942553093" duration="686000" />
+      <workItem from="1602943264668" duration="820000" />
     </task>
     <servers />
   </component>
@@ -48,9 +50,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602942853464" />
+    <state x="507" y="266" key="Github.CreateGistDialog" timestamp="1602943767430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1602943767430" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1602943617905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602943617905" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1602929528071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602929528071" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602943722246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602943722246" />
   </component>
 </project>
